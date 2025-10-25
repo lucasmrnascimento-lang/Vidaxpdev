@@ -10,8 +10,11 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  // Static export para Cloudflare Pages
   output: 'export',
   trailingSlash: true,
+  // Configuração para Cloudflare
+  assetPrefix: undefined,
 }
 
 module.exports = nextConfig
