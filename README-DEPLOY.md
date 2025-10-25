@@ -33,7 +33,8 @@ Preencha os seguintes campos:
 - **Framework preset**: `Next.js (Static HTML Export)` ou `None`
 - **Build command**: `npm run build`
 - **Build output directory**: `out`
-- **Root directory**: `/` (deixe em branco ou coloque `/`)
+- **Root directory**: `/` (deixe em branco)
+- **Node.js version**: Use a versão padrão (18.x ou superior)
 
 ### 4. Configure as Variáveis de Ambiente
 
