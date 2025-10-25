@@ -29,6 +29,9 @@ yarn-error.log*
 # Vercel
 .vercel
 
+# Cloudflare Functions (não necessário para static export)
+/functions
+
 # TypeScript
 *.tsbuildinfo
 
